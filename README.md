@@ -3,6 +3,7 @@
 
 # Install Before Use
 * install Nodejs and NPM on your Device
+* get Google API key from `https://cloud.google.com/translate/` and past in `translate.js` file
 
 # How to Start The Project
 * clone the repo or download it on your local device
